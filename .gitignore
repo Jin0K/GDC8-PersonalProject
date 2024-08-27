@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+App.config
+
+.vs/
+bin/
+obj/
+=======
+App.config.vs/bin/obj/
+>>>>>>> a1f384a (COMMIT 1)
